@@ -52,7 +52,7 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.security.SecurityMiddleware',
 )
 
-ROOT_URLCONF = 'urls'
+ROOT_URLCONF = 'channelworm.channelworm.urls'
 
 TEMPLATES = [
     {
